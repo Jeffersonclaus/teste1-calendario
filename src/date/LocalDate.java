@@ -17,7 +17,7 @@ public class LocalDate {
     
     
     public static void main (String []args){
-    
+   /* 
 
   LocalDate hoje = LocalDate.main(args)//
 
@@ -39,7 +39,7 @@ public class LocalDate {
         String agoraFormatado = agora.format(formatter);
 
         System.out.println("LocalDateTime depois de formatar: " + agoraFormata;
-    
+    */
     
     }
 
